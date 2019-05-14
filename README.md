@@ -1,2 +1,2 @@
 # psychic-tribble
-Reverse TCP connections in Python
+A sample of Reverse TCP connections in Python
